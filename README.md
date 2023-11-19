@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ramesh-murugesan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://rameshmurukesan.medium.com/"><img src="https://img.shields.io/badge/Medium-articles-blue?style=flat-square&logo=medium" alt="Medium Articles"/></a>
-  <a href="https://macroramesh.com/"><img src="https://img.shields.io/badge/Portfolio-blueviolet?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://macroramesh.com/"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat-square" alt="Website"/></a>
   <a href="mailto:me@macroramesh.com"><img src="https://img.shields.io/badge/Email-orange?style=flat-square&logo=gmail" alt="Email"/></a>
 </p>
 
